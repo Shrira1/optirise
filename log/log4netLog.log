@@ -1,0 +1,919 @@
+2015-10-18 15:48:25,240[UTC] [10] DEBUG - Application Starting
+2015-10-18 15:48:30,085[UTC] [10] DEBUG - Application Ending
+2015-10-18 15:50:24,105[UTC] [13] DEBUG - Application Starting
+2015-10-18 15:50:28,968[UTC] [13] DEBUG - Application Ending
+2015-10-18 15:59:21,898[UTC] [6] DEBUG - Application Starting
+2015-10-18 15:59:29,671[UTC] [6] DEBUG - Application Ending
+2015-10-19 09:50:12,444[UTC] [5] DEBUG - Application Starting
+2015-10-19 09:50:15,991[UTC] [5] DEBUG - Application Ending
+2015-10-19 10:22:30,646[UTC] [5] DEBUG - Application Starting
+2015-10-19 10:22:33,993[UTC] [5] DEBUG - Application Ending
+2017-04-17 12:25:09,558[UTC] [22] DEBUG - Application Starting
+2017-04-17 12:25:12,285[UTC] [22] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 12:25:12,649[UTC] [22] DEBUG - Application Ending
+2017-04-17 12:43:22,739[UTC] [41] DEBUG - Application Starting
+2017-04-17 12:43:24,298[UTC] [41] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 12:43:24,310[UTC] [41] DEBUG - Application Ending
+2017-04-17 12:46:30,379[UTC] [45] DEBUG - Application Starting
+2017-04-17 12:46:32,220[UTC] [45] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 12:46:32,222[UTC] [45] DEBUG - Application Ending
+2017-04-17 12:47:00,514[UTC] [46] DEBUG - Application Starting
+2017-04-17 12:47:02,588[UTC] [46] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 12:47:02,634[UTC] [46] DEBUG - Application Ending
+2017-04-17 12:54:40,927[UTC] [36] DEBUG - Application Starting
+2017-04-17 12:54:42,791[UTC] [36] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 12:54:42,794[UTC] [36] DEBUG - Application Ending
+2017-04-17 12:56:51,907[UTC] [37] DEBUG - Application Starting
+2017-04-17 12:56:53,668[UTC] [37] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 12:56:53,674[UTC] [37] DEBUG - Application Ending
+2017-04-17 12:58:30,108[UTC] [43] DEBUG - Application Starting
+2017-04-17 12:58:31,581[UTC] [43] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 12:58:31,583[UTC] [43] DEBUG - Application Ending
+2017-04-17 13:39:22,374[UTC] [11] DEBUG - Application Starting
+2017-04-17 13:39:24,795[UTC] [11] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 13:39:24,799[UTC] [11] DEBUG - Application Ending
+2017-04-17 13:39:39,994[UTC] [18] DEBUG - Application Starting
+2017-04-17 13:39:41,464[UTC] [18] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 13:39:41,464[UTC] [18] DEBUG - Application Ending
+2017-04-17 13:41:23,912[UTC] [24] DEBUG - Application Starting
+2017-04-17 13:41:25,574[UTC] [24] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 13:41:25,577[UTC] [24] DEBUG - Application Ending
+2017-04-17 14:43:08,857[UTC] [66] DEBUG - Application Starting
+2017-04-17 14:43:10,959[UTC] [66] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 14:43:10,982[UTC] [66] DEBUG - Application Ending
+2017-04-17 14:48:35,775[UTC] [63] DEBUG - Application Starting
+2017-04-17 14:48:37,418[UTC] [63] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 14:48:37,485[UTC] [63] DEBUG - Application Ending
+2017-04-17 14:50:45,159[UTC] [65] DEBUG - Application Starting
+2017-04-17 14:50:46,668[UTC] [65] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 14:50:46,673[UTC] [65] DEBUG - Application Ending
+2017-04-17 14:53:18,914[UTC] [62] DEBUG - Application Starting
+2017-04-17 14:53:20,781[UTC] [62] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 14:53:20,820[UTC] [62] DEBUG - Application Ending
+2017-04-17 14:54:34,164[UTC] [67] DEBUG - Application Starting
+2017-04-17 14:56:33,561[UTC] [67] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 14:56:33,561[UTC] [67] DEBUG - Application Ending
+2017-04-17 15:15:51,087[UTC] [62] DEBUG - Application Starting
+2017-04-17 15:15:52,725[UTC] [62] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 15:15:52,728[UTC] [62] DEBUG - Application Ending
+2017-04-17 15:43:59,435[UTC] [15] DEBUG - Application Starting
+2017-04-17 16:47:29,134[UTC] [15] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\contactus.aspx.cs:line 46
+2017-04-17 16:47:29,137[UTC] [15] DEBUG - Application Ending
+2017-04-24 13:01:09,929[UTC] [35] DEBUG - Application Starting
+2017-04-24 13:01:12,714[UTC] [35] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\ContactUs.aspx.cs:line 46
+2017-04-24 13:01:12,978[UTC] [35] DEBUG - Application Ending
+2017-04-25 19:57:03,273[UTC] [22] DEBUG - Application Starting
+2017-04-25 19:59:00,842[UTC] [22] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 69
+2017-04-25 19:59:00,845[UTC] [22] DEBUG - Application Ending
+2017-04-25 19:59:11,634[UTC] [63] DEBUG - Application Starting
+2017-04-25 19:59:55,600[UTC] [63] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 69
+2017-04-25 19:59:55,601[UTC] [63] DEBUG - Application Ending
+2017-04-25 20:01:12,414[UTC] [63] DEBUG - Application Starting
+2017-04-25 20:06:15,429[UTC] [63] DEBUG - System.Net.Mail.SmtpException: Server does not support secure connections.
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 69
+2017-04-25 20:06:15,430[UTC] [63] DEBUG - Application Ending
+2017-04-25 20:06:24,222[UTC] [22] DEBUG - Application Starting
+2017-04-25 20:07:41,187[UTC] [22] DEBUG - System.Net.Mail.SmtpException: Server does not support secure connections.
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 72
+2017-04-25 20:07:41,188[UTC] [22] DEBUG - Application Ending
+2017-04-25 20:07:51,875[UTC] [22] DEBUG - Application Starting
+2017-04-25 20:10:25,920[UTC] [22] DEBUG - System.Net.Mail.SmtpException: Server does not support secure connections.
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 72
+2017-04-25 20:10:25,925[UTC] [22] DEBUG - Application Ending
+2017-04-25 20:10:35,025[UTC] [23] DEBUG - Application Starting
+2017-04-25 20:10:37,442[UTC] [23] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 80
+2017-04-25 20:10:37,446[UTC] [23] DEBUG - Application Ending
+2017-04-25 20:11:38,183[UTC] [22] DEBUG - Application Starting
+2017-04-25 20:11:40,587[UTC] [22] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 80
+2017-04-25 20:11:40,587[UTC] [22] DEBUG - Application Ending
+2017-04-25 20:11:47,790[UTC] [22] DEBUG - Application Starting
+2017-04-25 20:11:50,111[UTC] [22] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 80
+2017-04-25 20:11:50,113[UTC] [22] DEBUG - Application Ending
+2017-04-25 20:15:09,570[UTC] [39] DEBUG - Application Starting
+2017-04-25 20:20:33,999[UTC] [39] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 80
+2017-04-25 20:20:33,999[UTC] [39] DEBUG - Application Ending
+2017-04-25 20:20:41,645[UTC] [39] DEBUG - Application Starting
+2017-04-25 20:21:02,787[UTC] [39] DEBUG - Application Ending
+2017-04-25 20:26:41,190[UTC] [30] DEBUG - Application Starting
+2017-04-25 20:26:42,228[UTC] [30] DEBUG - System.Net.Mail.SmtpException: Server does not support secure connections.
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 72
+2017-04-25 20:26:42,231[UTC] [30] DEBUG - Application Ending
+2017-04-25 20:26:50,165[UTC] [40] DEBUG - Application Starting
+2017-04-25 20:26:51,018[UTC] [40] DEBUG - System.Net.Mail.SmtpException: Server does not support secure connections.
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 72
+2017-04-25 20:26:51,018[UTC] [40] DEBUG - Application Ending
+2017-04-25 20:27:09,644[UTC] [40] DEBUG - Application Starting
+2017-04-25 20:27:54,507[UTC] [40] DEBUG - System.Net.Mail.SmtpException: Server does not support secure connections.
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 72
+2017-04-25 20:27:54,509[UTC] [40] DEBUG - Application Ending
+2017-04-25 20:30:12,213[UTC] [24] DEBUG - Application Starting
+2017-04-25 20:43:38,704[UTC] [7] DEBUG - Application Starting
+2017-04-25 20:43:58,081[UTC] [7] DEBUG - Application Ending
+2017-04-25 20:46:45,495[UTC] [7] DEBUG - Application Starting
+2017-04-25 20:46:50,662[UTC] [7] DEBUG - Application Ending
+2017-04-25 20:52:56,118[UTC] [8] DEBUG - Application Starting
+2017-04-25 20:53:02,254[UTC] [8] DEBUG - Application Ending
+2017-04-25 20:55:22,262[UTC] [19] DEBUG - Application Starting
+2017-04-25 20:56:29,065[UTC] [19] DEBUG - Application Ending
+2017-04-25 20:57:55,372[UTC] [20] DEBUG - Application Starting
+2017-04-25 20:58:01,792[UTC] [20] DEBUG - Application Ending
+2017-04-25 20:58:48,715[UTC] [20] DEBUG - Application Starting
+2017-04-25 20:58:51,863[UTC] [20] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 81
+2017-04-25 20:58:52,065[UTC] [20] DEBUG - Application Ending
+2017-04-25 21:13:40,486[UTC] [26] DEBUG - Application Starting
+2017-04-25 23:06:32,335[UTC] [26] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 81
+2017-04-25 23:06:32,338[UTC] [26] DEBUG - Application Ending
+2017-04-25 23:06:43,361[UTC] [25] DEBUG - Application Starting
+2017-04-25 23:08:05,787[UTC] [25] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 81
+2017-04-25 23:08:05,788[UTC] [25] DEBUG - Application Ending
+2017-04-25 23:08:15,051[UTC] [25] DEBUG - Application Starting
+2017-04-25 23:08:20,628[UTC] [25] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 81
+2017-04-25 23:08:20,630[UTC] [25] DEBUG - Application Ending
+2017-04-25 23:12:29,037[UTC] [26] DEBUG - Application Starting
+2017-04-25 23:12:34,734[UTC] [26] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 81
+2017-04-25 23:12:34,735[UTC] [26] DEBUG - Application Ending
+2017-04-25 23:31:19,930[UTC] [26] DEBUG - Application Starting
+2017-04-25 23:31:23,912[UTC] [26] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 81
+2017-04-25 23:31:23,920[UTC] [26] DEBUG - Application Ending
+2017-04-25 23:31:33,457[UTC] [18] DEBUG - Application Starting
+2017-04-25 23:40:07,845[UTC] [18] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 81
+2017-04-25 23:40:07,852[UTC] [18] DEBUG - Application Ending
+2017-04-25 23:40:18,138[UTC] [18] DEBUG - Application Starting
+2017-04-25 23:40:33,895[UTC] [18] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 72
+2017-04-25 23:40:33,898[UTC] [18] DEBUG - Application Ending
+2017-04-25 23:40:46,715[UTC] [18] DEBUG - Application Starting
+2017-04-26 00:37:19,947[UTC] [18] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 72
+2017-04-26 00:37:20,432[UTC] [18] DEBUG - Application Ending
+2017-04-26 00:37:39,838[UTC] [22] DEBUG - Application Starting
+2017-04-26 00:37:59,856[UTC] [22] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The remote name could not be resolved: 'relay-hosting.secureserver.net'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 77
+2017-04-26 00:37:59,865[UTC] [22] DEBUG - Application Ending
+2017-04-26 00:38:34,778[UTC] [26] DEBUG - Application Starting
+2017-04-26 00:38:34,818[UTC] [26] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The remote name could not be resolved: 'relay-hosting.secureserver.net'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 77
+2017-04-26 00:38:34,819[UTC] [26] DEBUG - Application Ending
+2017-04-26 00:38:46,167[UTC] [22] DEBUG - Application Starting
+2017-04-26 00:40:54,870[UTC] [22] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 77
+2017-04-26 00:40:54,871[UTC] [22] DEBUG - Application Ending
+2017-04-26 00:41:06,319[UTC] [22] DEBUG - Application Starting
+2017-04-26 00:41:25,891[UTC] [22] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 78
+2017-04-26 00:41:25,894[UTC] [22] DEBUG - Application Ending
+2017-04-26 00:45:33,904[UTC] [8] DEBUG - Application Starting
+2017-04-26 00:51:39,664[UTC] [8] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 78
+2017-04-26 00:51:39,665[UTC] [8] DEBUG - Application Ending
+2017-04-26 00:51:49,039[UTC] [14] DEBUG - Application Starting
+2017-04-26 00:52:16,749[UTC] [14] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The remote name could not be resolved: 'relay-hosting.secureserver.net'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 78
+2017-04-26 00:52:16,750[UTC] [14] DEBUG - Application Ending
+2017-04-26 00:54:41,894[UTC] [16] DEBUG - Application Starting
+2017-04-26 00:54:54,879[UTC] [16] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The remote name could not be resolved: 'relay-hosting.secureserver.net'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 79
+2017-04-26 00:54:54,885[UTC] [16] DEBUG - Application Ending
+2017-04-26 01:21:33,383[UTC] [43] DEBUG - Application Starting
+2017-04-26 01:21:33,612[UTC] [43] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The remote name could not be resolved: 'relay-hosting.secureserver.net'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 84
+2017-04-26 01:21:33,615[UTC] [43] DEBUG - Application Ending
+2017-04-26 01:21:52,158[UTC] [42] DEBUG - Application Starting
+2017-04-26 01:22:33,644[UTC] [42] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The remote name could not be resolved: 'relay-hosting.secureserver.net'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 84
+2017-04-26 01:22:33,644[UTC] [42] DEBUG - Application Ending
+2017-04-26 01:23:16,527[UTC] [42] DEBUG - Application Starting
+2017-04-26 01:23:34,569[UTC] [42] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 84
+2017-04-26 01:23:34,574[UTC] [42] DEBUG - Application Ending
+2017-04-26 01:28:57,565[UTC] [43] DEBUG - Application Starting
+2017-04-26 01:31:44,183[UTC] [43] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 84
+2017-04-26 01:31:44,184[UTC] [43] DEBUG - Application Ending
+2017-04-26 01:35:42,218[UTC] [32] DEBUG - Application Starting
+2017-04-26 11:04:25,463[UTC] [7] DEBUG - Application Starting
+2017-04-26 11:05:12,981[UTC] [7] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The remote name could not be resolved: 'relay-hosting.secure.net'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 83
+2017-04-26 11:05:13,093[UTC] [7] DEBUG - Application Ending
+2017-04-26 11:05:21,134[UTC] [7] DEBUG - Application Starting
+2017-04-26 11:06:00,355[UTC] [7] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The remote name could not be resolved: 'relay-hosting.secure.net'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 83
+2017-04-26 11:06:00,355[UTC] [7] DEBUG - Application Ending
+2017-04-26 11:06:06,385[UTC] [7] DEBUG - Application Starting
+2017-04-26 11:07:07,447[UTC] [7] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The remote name could not be resolved: 'relay-hosting.secure.net'
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 83
+2017-04-26 11:07:07,447[UTC] [7] DEBUG - Application Ending
+2017-04-26 11:07:13,889[UTC] [8] DEBUG - Application Starting
+2017-04-26 11:09:04,810[UTC] [8] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: authentication required
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 83
+2017-04-26 11:09:04,812[UTC] [8] DEBUG - Application Ending
+2017-04-26 11:09:17,089[UTC] [7] DEBUG - Application Starting
+2017-04-26 11:11:26,576[UTC] [7] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 83
+2017-04-26 11:11:26,577[UTC] [7] DEBUG - Application Ending
+2017-04-26 11:11:32,363[UTC] [7] DEBUG - Application Starting
+2017-04-26 11:12:03,575[UTC] [7] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 83
+2017-04-26 11:12:03,578[UTC] [7] DEBUG - Application Ending
+2017-04-26 11:12:18,160[UTC] [7] DEBUG - Application Starting
+2017-04-26 11:27:07,924[UTC] [7] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to read data from the transport connection: net_io_connectionclosed.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.CheckCommand.Send(SmtpConnection conn, String& response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 83
+2017-04-26 11:27:07,925[UTC] [7] DEBUG - Application Ending
+2017-04-26 11:27:34,664[UTC] [7] DEBUG - Application Starting
+2017-04-26 11:28:08,229[UTC] [7] DEBUG - System.Net.Mail.SmtpException: Failure sending mail. ---> System.FormatException: Smtp server returned an invalid response.
+   at System.Net.Mail.SmtpReplyReaderFactory.ProcessRead(Byte[] buffer, Int32 offset, Int32 read, Boolean readLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLines(SmtpReplyReader caller, Boolean oneLine)
+   at System.Net.Mail.SmtpReplyReaderFactory.ReadLine(SmtpReplyReader caller)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at contactus.btnsub_Click(Object sender, EventArgs e) in c:\Users\Mahima\Desktop\OptiRise\ContactUs.aspx.cs:line 46
+2017-04-26 11:28:08,229[UTC] [7] DEBUG - Application Ending
+2017-04-26 12:35:14,719[UTC] [68] DEBUG - Application Starting
+2017-04-26 12:38:17,248[UTC] [68] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM [MA1PR01CA0024.INDPRD01.PROD.OUTLOOK.COM]
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 82
+2017-04-26 12:38:17,249[UTC] [68] DEBUG - Application Ending
+2017-04-26 12:38:21,483[UTC] [71] DEBUG - Application Starting
+2017-04-26 12:51:21,154[UTC] [71] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM [MAXPR01CA0030.INDPRD01.PROD.OUTLOOK.COM]
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 82
+2017-04-26 12:51:21,159[UTC] [71] DEBUG - Application Ending
+2017-04-26 12:51:35,286[UTC] [54] DEBUG - Application Starting
+2017-04-26 12:55:46,750[UTC] [54] DEBUG - System.Net.Mail.SmtpException: Mailbox unavailable. The server response was: 5.7.60 SMTP; Client does not have permissions to send as this sender [CY4PR04MB0870.namprd04.prod.outlook.com]
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 82
+2017-04-26 12:55:46,751[UTC] [54] DEBUG - Application Ending
+2017-04-26 12:55:52,153[UTC] [54] DEBUG - Application Starting
+2017-04-26 12:58:05,454[UTC] [54] DEBUG - System.Net.Mail.SmtpException: Mailbox unavailable. The server response was: 5.7.60 SMTP; Client does not have permissions to send as this sender [DM5PR04MB0876.namprd04.prod.outlook.com]
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 82
+2017-04-26 12:58:05,459[UTC] [54] DEBUG - Application Ending
+2017-04-26 12:58:40,807[UTC] [67] DEBUG - Application Starting
+2017-04-26 12:59:39,239[UTC] [67] DEBUG - Application Ending
+2017-04-26 13:04:46,434[UTC] [66] DEBUG - Application Starting
+2017-04-26 13:05:08,293[UTC] [72] DEBUG - Application Starting
+2017-04-26 13:05:31,571[UTC] [66] DEBUG - Application Ending
+2017-04-26 13:05:46,256[UTC] [72] DEBUG - Application Ending
+2017-04-26 13:43:45,946[UTC] [72] DEBUG - Application Starting
+2017-04-26 13:44:29,787[UTC] [72] DEBUG - Application Ending
+2017-04-26 13:50:37,713[UTC] [70] DEBUG - Application Starting
+2017-04-26 13:52:24,491[UTC] [70] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. e5sm40819610pga.13 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 77
+2017-04-26 13:52:24,497[UTC] [70] DEBUG - Application Ending
+2017-04-26 13:54:19,860[UTC] [57] DEBUG - Application Starting
+2017-04-26 13:54:19,861[UTC] [57] DEBUG - Application Ending
+2017-04-26 13:55:21,157[UTC] [57] DEBUG - Application Starting
+2017-04-26 13:55:30,490[UTC] [57] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. x9sm40673343pff.98 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 77
+2017-04-26 13:55:30,495[UTC] [57] DEBUG - Application Ending
+2017-04-26 13:55:57,950[UTC] [70] DEBUG - Application Starting
+2017-04-26 13:56:03,533[UTC] [70] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. c3sm40645616pfg.46 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 77
+2017-04-26 13:56:03,533[UTC] [70] DEBUG - Application Ending
+2017-04-26 14:00:46,957[UTC] [54] DEBUG - Application Starting
+2017-04-26 14:00:50,489[UTC] [54] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. r18sm40736412pfk.109 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 77
+2017-04-26 14:00:50,489[UTC] [54] DEBUG - Application Ending
+2017-04-26 15:28:30,786[UTC] [39] DEBUG - Application Starting
+2017-04-26 15:28:36,047[UTC] [39] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. f24sm41344347pfk.88 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 77
+2017-04-26 15:28:36,050[UTC] [39] DEBUG - Application Ending
+2017-04-26 15:35:15,857[UTC] [29] DEBUG - Application Starting
+2017-04-26 15:38:03,052[UTC] [29] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. x9sm41386096pff.98 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 77
+2017-04-26 15:38:03,052[UTC] [29] DEBUG - Application Ending
+2017-04-26 16:03:11,937[UTC] [8] DEBUG - Application Starting
+2017-04-26 16:04:12,974[UTC] [8] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. e20sm41614619pfl.134 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 78
+2017-04-26 16:04:13,037[UTC] [8] DEBUG - Application Ending
+2017-04-26 16:04:17,814[UTC] [8] DEBUG - Application Starting
+2017-04-26 16:04:36,113[UTC] [8] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. a187sm41530463pfa.59 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 78
+2017-04-26 16:04:36,114[UTC] [8] DEBUG - Application Ending
+2017-04-26 16:04:55,276[UTC] [5] DEBUG - Application Starting
+2017-04-26 16:04:58,796[UTC] [5] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. s68sm41572018pfj.77 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 78
+2017-04-26 16:04:58,801[UTC] [5] DEBUG - Application Ending
+2017-04-26 16:05:11,224[UTC] [8] DEBUG - Application Starting
+2017-04-26 16:07:59,720[UTC] [8] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. d3sm41745928pgc.37 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 78
+2017-04-26 16:07:59,724[UTC] [8] DEBUG - Application Ending
+2017-04-26 16:09:13,890[UTC] [10] DEBUG - Application Starting
+2017-04-26 16:10:42,328[UTC] [10] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. h89sm41654655pfh.45 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 78
+2017-04-26 16:10:42,328[UTC] [10] DEBUG - Application Ending
+2017-04-26 16:10:56,957[UTC] [10] DEBUG - Application Starting
+2017-04-26 16:13:50,170[UTC] [10] DEBUG - System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Career.SendMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 78
+2017-04-26 16:13:50,170[UTC] [10] DEBUG - Application Ending
+2017-04-26 16:14:01,729[UTC] [9] DEBUG - Application Starting
+2017-04-26 16:14:08,717[UTC] [9] DEBUG - Application Ending
+2017-04-26 18:45:32,591[UTC] [25] DEBUG - Application Starting
+2017-04-26 18:45:42,902[UTC] [25] DEBUG - Application Ending
+2017-04-26 18:46:06,806[UTC] [25] DEBUG - Application Starting
+2017-04-26 18:46:13,893[UTC] [25] DEBUG - Application Ending
+2017-04-26 18:46:50,377[UTC] [61] DEBUG - Application Starting
+2017-04-26 18:46:56,239[UTC] [61] DEBUG - Application Ending
+2017-04-26 18:48:38,312[UTC] [10] DEBUG - Application Starting
+2017-04-26 18:48:48,086[UTC] [10] DEBUG - Application Ending
+2017-04-26 18:52:06,518[UTC] [23] DEBUG - Application Starting
+2017-04-26 18:52:11,135[UTC] [23] DEBUG - Application Ending
+2017-04-26 18:54:56,421[UTC] [70] DEBUG - Application Starting
+2017-04-26 18:55:06,774[UTC] [70] DEBUG - Application Ending
+2017-04-26 18:55:23,221[UTC] [62] DEBUG - Application Starting
+2017-04-26 18:55:25,642[UTC] [62] DEBUG - Application Ending
+2017-04-26 18:55:49,374[UTC] [70] DEBUG - Application Starting
+2017-04-26 18:56:00,548[UTC] [70] DEBUG - Application Ending
+2017-04-26 19:03:50,736[UTC] [69] DEBUG - Application Starting
+2017-04-26 19:03:59,231[UTC] [69] DEBUG - Application Ending
+2017-04-26 19:06:51,191[UTC] [69] DEBUG - Application Starting
+2017-04-26 19:06:58,860[UTC] [69] DEBUG - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Career.GenerateMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 64
+2017-04-26 19:06:58,900[UTC] [69] DEBUG - System.Threading.ThreadAbortException: Thread was being aborted.
+   at Career.GenerateMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 70
+2017-04-26 19:06:58,913[UTC] [69] DEBUG - Application Ending
+2017-04-26 19:07:41,952[UTC] [68] DEBUG - Application Starting
+2017-04-26 19:07:49,046[UTC] [68] DEBUG - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Career.GenerateMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 64
+2017-04-26 19:07:49,069[UTC] [68] DEBUG - System.Threading.ThreadAbortException: Thread was being aborted.
+   at Career.GenerateMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 70
+2017-04-26 19:07:49,091[UTC] [68] DEBUG - Application Ending
+2017-04-26 19:09:11,361[UTC] [23] DEBUG - Application Starting
+2017-04-26 19:09:18,609[UTC] [23] DEBUG - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Career.GenerateMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 63
+2017-04-26 19:09:18,624[UTC] [23] DEBUG - System.Threading.ThreadAbortException: Thread was being aborted.
+   at Career.GenerateMail() in c:\Users\Mahima\Desktop\OptiRise\Career.aspx.cs:line 70
+2017-04-26 19:09:18,634[UTC] [23] DEBUG - Application Ending
+2017-04-26 22:48:20,373[UTC] [68] DEBUG - Application Starting
+2017-04-26 22:48:26,105[UTC] [68] DEBUG - Application Ending
+2017-04-26 22:54:25,959[UTC] [61] DEBUG - Application Starting
+2017-04-26 22:54:36,843[UTC] [61] DEBUG - Application Ending
+2017-04-26 22:55:18,360[UTC] [8] DEBUG - Application Starting
+2017-04-26 22:55:34,869[UTC] [8] DEBUG - Application Ending
+2017-04-26 22:56:29,790[UTC] [59] DEBUG - Application Starting
+2017-04-26 22:57:08,984[UTC] [59] DEBUG - Application Ending
+2017-04-26 23:01:50,494[UTC] [65] DEBUG - Application Starting
+2017-04-26 23:02:01,782[UTC] [65] DEBUG - Application Ending
+2017-04-26 23:03:48,014[UTC] [59] DEBUG - Application Starting
+2017-04-26 23:03:51,702[UTC] [59] DEBUG - Application Ending
+2017-04-26 23:04:08,284[UTC] [25] DEBUG - Application Starting
+2017-04-26 23:04:14,868[UTC] [25] DEBUG - Application Ending
+2017-04-26 23:07:14,893[UTC] [60] DEBUG - Application Starting
+2017-04-26 23:07:22,076[UTC] [60] DEBUG - Application Ending
+2017-04-26 23:10:34,632[UTC] [27] DEBUG - Application Starting
+2017-04-26 23:10:40,835[UTC] [27] DEBUG - Application Ending
+2017-04-26 23:13:20,005[UTC] [61] DEBUG - Application Starting
+2017-04-26 23:13:29,491[UTC] [61] DEBUG - Application Ending
+2017-04-26 23:14:43,170[UTC] [8] DEBUG - Application Starting
+2017-04-26 23:14:49,666[UTC] [8] DEBUG - Application Ending
+2017-04-26 23:17:22,012[UTC] [60] DEBUG - Application Starting
+2017-04-26 23:17:28,492[UTC] [60] DEBUG - Application Ending

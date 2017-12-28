@@ -1,0 +1,12 @@
+﻿
+.navlinkcustom
+{
+    color:black;
+    font-weight:bold;
+}
+.navlinkcustom:hover
+{
+    color:white;
+    text-decoration:none;
+    
+}

@@ -1,0 +1,107 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MainMaster.master.cs" Inherits="mainmaster" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>OptiRise Software Pvt Ltd</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/bootstrap-responsive.css" rel="stylesheet" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/teamStyle.css" rel="stylesheet" />
+    <link href="css/nonresponsive.css" rel="stylesheet" />
+    <link href="css/AlteredResponsiveSite.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,700,700italic,800italic,800,600italic' rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <script src="js/jquery1.7.2.min.js" type="text/javascript"></script>
+    <script src="js/bootstrap.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            font-size: small;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class=" container col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <nav class=" navbar navbar-inverse navbar-fixed-top" style="background-image: url(https://static.parastorage.com/services/skins/2.1229.79/images/wysiwyg/core/themes/base/ironpatern.png); background-color: white;">
+                <div class="row">
+                    <div class="col-lg-2 col-md-2 col-xs-2 col-sm-2" style="padding-top: 10px; padding-bottom: 10px">
+                        <a href="Home.aspx">
+                            <img src="img/optir.png" /></a>
+                    </div>
+                    <div class="col-lg-7 col-md-7  col-xs-10 col-sm-7">
+                        <div class="navbar-header">
+                            <button type="button" id="btn" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar" style="background-color: black;">
+
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+
+                            </button>
+                        </div>
+                        <div class="  collapse  navbar-collapse" id="myNavbar">
+                            <ul class="nav navbar-nav ">
+                                <li><a href="Home.aspx">Home</a></li>
+                                <li><a href="OurStory.aspx">Our Story</a></li>
+                                <li><a href="Services.aspx">Services</a></li>
+                                <li><a href="Careers.aspx">Career</a></li>
+                                <li><a href="Team.aspx">Team</a></li>
+                                <li><a href="NewsandEvents.aspx">News & Event</a></li>
+                                <li><a href="ContactUs.aspx">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-2  col-xs-5 pull-right col-sm-10" style="margin-top: 20px;">
+                        <a href="#">info@Optirise.in</a>
+                        <br />
+                        <span>080 4123 5622</span>
+                        <a href="https://www.google.co.in/maps/place/OptiRise+Software+Pvt+Ltd/@12.957343,77.7439931,15z/data=!4m12!1m6!3m5!1s0x0:0x2b1016687991c0d1!2sOptiRise+Software+Pvt+Ltd!8m2!3d12.957343!4d77.7439931!3m4!1s0x0:0x2b1016687991c0d1!8m2!3d12.957343!4d77.7439931">
+                            <span class=" glyphicon glyphicon-map-marker" style="color: black;"></span></a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div style="margin-top: 99px;">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12 col-sm-12 col-xs-12 col-md-12 " style="background-image: url(https://static.parastorage.com/services/skins/2.1229.79/images/wysiwyg/core/themes/base/ironpatern.png); background-color: white; text-align: center">
+                    <p style="padding: 5px;">
+                        <strong>info@Optirise.in<br />
+                            080 4123 5622<br />
+                            Unit No 509/510/512A/512B, 5th Floor, Gamma Block, Sigma Soft Tech Park,7 Whitefield Main Road, Whitefield, Varthur Kodi, Palm Meadows,
+                                <br />
+                            Whitefield, Bengaluru, Karnataka 560066, India
+                                        <br />
+                            <i class="material-icons"></i>
+                        </strong>
+                        <a href="https://www.google.co.in/maps/place/OptiRise+Software+Pvt+Ltd/@12.957343,77.7439931,15z/data=!4m12!1m6!3m5!1s0x0:0x2b1016687991c0d1!2sOptiRise+Software+Pvt+Ltd!8m2!3d12.957343!4d77.7439931!3m4!1s0x0:0x2b1016687991c0d1!8m2!3d12.957343!4d77.7439931">
+                            <span class=" glyphicon glyphicon-map-marker" style="color: black;"></span></a>
+                    </p>
+                    <div class="col-lg-6 col-xs-12 col-md-12 pull-right" id="fa">
+                        <p style="text-align: right">
+                            <bold>
+                                        <a href="https://www.facebook.com/OptiRise/" style="margin-left: 10px;" class="fa fa-facebook"></a>
+
+
+                                        <a href="https://in.linkedin.com/company/optirise-software-pvt-ltd" style="margin-left: 10px;" class="fa fa-linkedin"></a>
+                                    </bold>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-12 col-sm-12 col-xs-12 col-md-12" style="background-color: black; color: white;">
+
+                    <h5 style="text-align: center;">©2015 OptiRise Software Pvt Ltd. All Rights Reserved | <a href="TermsAndConditions.aspx">Terms and Conditions </a></h5>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+
